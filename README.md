@@ -62,13 +62,11 @@ Python 3, Google Colab, pandas, NLTK, scikit-learn, matplotlib
 | **macro avg** | 0.68 | 0.75 | 0.70 | 53,766 |
 | **weighted avg** | 0.84 | 0.79 | 0.81 | 53,766 |
 
-**Classification report**
-
-![Classification Report](classification_report.png)
 
 **Confusion matrix**
 
-![Confusion Matrix](confusion_matrix.png)
+<img width="730" height="571" alt="image" src="https://github.com/user-attachments/assets/408870ef-f5ec-4585-b5ea-5b4ca93c5fb8" />
+
 
 ## Discussion
 
